@@ -3,12 +3,11 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="apachepoi.ReadExcelFile">
+      <class name="testNGeclipseSelenium.LoxaBeauty">
         <methods>
-          <include name="loginTest"/>
-          <include name="launchBrowser"/>
+          <include name="login"/>
         </methods>
-      </class> <!-- apachepoi.ReadExcelFile -->
+      </class> <!-- testNGeclipseSelenium.LoxaBeauty -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

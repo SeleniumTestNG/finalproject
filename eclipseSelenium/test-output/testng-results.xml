@@ -2,20 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="19155" started-at="2015-11-02T12:37:55Z" finished-at="2015-11-02T12:38:15Z">
+  <suite name="Default suite" duration-ms="44003" started-at="2015-12-07T06:49:19Z" finished-at="2015-12-07T06:50:03Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="19155" started-at="2015-11-02T12:37:55Z" finished-at="2015-11-02T12:38:15Z">
-      <class name="apachepoi.ReadExcelFile">
-        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:apachepoi.ReadExcelFile@1df28bb]" name="launchBrowser" is-config="true" duration-ms="16788" started-at="2015-11-02T18:07:55Z" finished-at="2015-11-02T18:08:12Z">
+    <test name="Default test" duration-ms="44003" started-at="2015-12-07T06:49:19Z" finished-at="2015-12-07T06:50:03Z">
+      <class name="testNGeclipseSelenium.LoxaBeauty">
+        <test-method status="PASS" signature="login()[pri:0, instance:testNGeclipseSelenium.LoxaBeauty@1ebcae2]" name="login" duration-ms="43962" started-at="2015-12-07T12:19:19Z" finished-at="2015-12-07T12:20:03Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- launchBrowser -->
-        <test-method status="PASS" signature="loginTest()[pri:0, instance:apachepoi.ReadExcelFile@1df28bb]" name="loginTest" duration-ms="2336" started-at="2015-11-02T18:08:12Z" finished-at="2015-11-02T18:08:15Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- loginTest -->
-      </class> <!-- apachepoi.ReadExcelFile -->
+        </test-method> <!-- login -->
+      </class> <!-- testNGeclipseSelenium.LoxaBeauty -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

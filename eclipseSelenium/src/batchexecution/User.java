@@ -1,5 +1,6 @@
 package batchexecution;
 
+import org.testng.Reporter;
 import org.testng.annotations.Test;
 
 
@@ -9,11 +10,13 @@ public class User {
 	public void loginTest()
 	{
 		System.out.println("User Get Logged in Successfully...");
+		
 	}
 	@Test
 	public void logoutTest()
 	{
 		System.out.println("User Get Logged Out Successfully...");
+		
 	}
 
 }
